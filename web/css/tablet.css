@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* CSS Document for tablets 768 to 1024 */
+
+#holder {
+	width:768;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;		
+}
+.bigly {
+	display:block;	
+}
+.phonly {
+	display:none;
+}
+.bigly {
+	display:none;
+}
+
+#leftcont{
+	float:left;
+	width:472px;
+	padding:10px;
+	margin-left:0px;
+	margin-right:10px;
+	margin-top:0px;
+	border:none;
+	
+}
+#rightcont{
+	float:right;
+	width:265px;
+	padding:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	border-left: 1px solid #CCC;
+}
+.rcbox {
+	border: none;
+	margin-left:20px;
+	margin-right:10px;
+	padding-left:0px;
+	padding-right:10px;
+	margin-bottom:10px;
+	border-bottom: 1px solid #CCC;
+}
+.rcboxfirst {
+	border: none;
+	margin-left:20px;
+	margin-right:10px;
+	padding-left:0px;
+	padding-right:10px;
+	margin-bottom:10px;
+	border-bottom: 1px solid #CCC;
+	margin-top:48px;
+}
+.rcboxlast {
+	border: none;
+	margin-left:20px;
+	margin-right:10px;
+	padding-left:0px;
+	padding-right:10px;
+	margin-bottom:10px;
+}
+.bigtext {
+	font-size:17px;
+}
+.clearer {
+	clear:both;
+}
+#footer{
+	width:758px;
+	padding:5px;
+	margin-left:5px;
+	margin-right:5px;
+	margin-top:20px;
+	margin-bottom:30px;
+	border-top: 1px solid #CCC;
+	text-align:right;
+}
